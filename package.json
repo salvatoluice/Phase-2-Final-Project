@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-router-hash-link": "^2.4.3"
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.4.1"
+  }
+}
